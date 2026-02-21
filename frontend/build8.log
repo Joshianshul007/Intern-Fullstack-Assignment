@@ -1,0 +1,33 @@
+﻿
+> frontend@0.1.0 build
+> next build
+
+  Γû▓ Next.js 14.2.15
+
+   Creating an optimized production build ...
+ Γ£ô Compiled successfully
+   Skipping validation of types
+   Skipping linting
+   Collecting page data ...
+   Generating static pages (0/8) ...
+   Generating static pages (2/8) 
+   Generating static pages (4/8) 
+   Generating static pages (6/8) 
+ Γ£ô Generating static pages (8/8)
+   Finalizing page optimization ...
+   Collecting build traces ...
+
+Route (app)                              Size     First Load JS
+Γöî Γùï /                                    5.26 kB        92.4 kB
+Γö£ Γùï /_not-found                          873 B          88.1 kB
+Γö£ Γùï /dashboard                           14.6 kB         137 kB
+Γö£ Γùï /login                               3.03 kB         149 kB
+Γöö Γùï /signup                              3.1 kB          149 kB
++ First Load JS shared by all            87.2 kB
+  Γö£ chunks/117-ca6b91649ddde8fd.js       31.6 kB
+  Γö£ chunks/fd9d1056-dd504a17eef30e15.js  53.6 kB
+  Γöö other shared chunks (total)          1.95 kB
+
+
+Γùï  (Static)  prerendered as static content
+
